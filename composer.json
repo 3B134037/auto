@@ -1,0 +1,16 @@
+{
+    "name": "ncut/auto",
+    "description": "autoload classes",
+    "autoload": {
+        "psr-4": {
+            "Ncut\\Auto\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "陳炫樺",
+            "email": "chenxuanhua456@gmail.com"
+        }
+    ],
+    "require": {}
+}
